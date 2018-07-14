@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyAngular.Api", "EasyAngular.Api\EasyAngular.Api.csproj", "{BF349E36-67B5-4AE2-8025-14AEA2AC6257}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyAngular.Model", "EasyAngular.Model\EasyAngular.Model.csproj", "{FDFED6DA-CBB1-4834-9B63-BDD0A331F028}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF349E36-67B5-4AE2-8025-14AEA2AC6257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF349E36-67B5-4AE2-8025-14AEA2AC6257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF349E36-67B5-4AE2-8025-14AEA2AC6257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF349E36-67B5-4AE2-8025-14AEA2AC6257}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDFED6DA-CBB1-4834-9B63-BDD0A331F028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDFED6DA-CBB1-4834-9B63-BDD0A331F028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDFED6DA-CBB1-4834-9B63-BDD0A331F028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDFED6DA-CBB1-4834-9B63-BDD0A331F028}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

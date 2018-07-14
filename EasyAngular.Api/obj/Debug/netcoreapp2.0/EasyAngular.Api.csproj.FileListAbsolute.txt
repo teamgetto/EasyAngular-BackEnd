@@ -1,0 +1,13 @@
+/Users/macbook/Desktop/ANGULAR/EasyAngular/EasyAngular.Api/bin/Debug/netcoreapp2.0/EasyAngular.Api.deps.json
+/Users/macbook/Desktop/ANGULAR/EasyAngular/EasyAngular.Api/bin/Debug/netcoreapp2.0/EasyAngular.Api.runtimeconfig.json
+/Users/macbook/Desktop/ANGULAR/EasyAngular/EasyAngular.Api/bin/Debug/netcoreapp2.0/EasyAngular.Api.runtimeconfig.dev.json
+/Users/macbook/Desktop/ANGULAR/EasyAngular/EasyAngular.Api/bin/Debug/netcoreapp2.0/EasyAngular.Api.dll
+/Users/macbook/Desktop/ANGULAR/EasyAngular/EasyAngular.Api/bin/Debug/netcoreapp2.0/EasyAngular.Api.pdb
+/Users/macbook/Desktop/ANGULAR/EasyAngular/EasyAngular.Api/bin/Debug/netcoreapp2.0/EasyAngular.Model.dll
+/Users/macbook/Desktop/ANGULAR/EasyAngular/EasyAngular.Api/bin/Debug/netcoreapp2.0/EasyAngular.Model.pdb
+/Users/macbook/Desktop/ANGULAR/EasyAngular/EasyAngular.Api/obj/Debug/netcoreapp2.0/EasyAngular.Api.csprojResolveAssemblyReference.cache
+/Users/macbook/Desktop/ANGULAR/EasyAngular/EasyAngular.Api/obj/Debug/netcoreapp2.0/EasyAngular.Api.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/ANGULAR/EasyAngular/EasyAngular.Api/obj/Debug/netcoreapp2.0/EasyAngular.Api.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/ANGULAR/EasyAngular/EasyAngular.Api/obj/Debug/netcoreapp2.0/EasyAngular.Api.AssemblyInfo.cs
+/Users/macbook/Desktop/ANGULAR/EasyAngular/EasyAngular.Api/obj/Debug/netcoreapp2.0/EasyAngular.Api.dll
+/Users/macbook/Desktop/ANGULAR/EasyAngular/EasyAngular.Api/obj/Debug/netcoreapp2.0/EasyAngular.Api.pdb
